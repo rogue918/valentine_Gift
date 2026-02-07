@@ -68,7 +68,7 @@ export default function Valentine() {
     const [yesScale, setYesScale] = useState(1);
     const [noStage, setNoStage] = useState(0);
 
-    const name = "Khushboo";
+    const name = "Harshitaa <3";
 
     useEffect(() => {
         const canvas = canvasRef.current;
