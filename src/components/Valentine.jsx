@@ -5,7 +5,7 @@ const noMessages = [
     "Oh? 👀 You clicked No already?",
     "Wow. Bold choice. Very bold.",
     "Are you *sure* sure? Because my heart disagrees.",
-    "Khushboo… that button is starting to look suspicious 😏",
+    "Harshitaa… that button is starting to look suspicious 😏",
     "Okay but imagine saying No to *this face* 🥺",
     "This is getting awkward. Just say Yes already.",
     "At this point the No button is just decoration 😂",
@@ -138,7 +138,7 @@ export default function Valentine() {
 
                     {step === "intro" && (
                         <div className="animate-pop">
-                            <h1 className="text-4xl font-extrabold mb-6">Hey Khushboo 💕</h1>
+                            <h1 className="text-4xl font-extrabold mb-6">Hey Harshita &lt;3 💕</h1>
                             <p className="mb-8 opacity-80">I have something important to ask you…</p>
                             <button
                                 onClick={() => setStep("question")}
