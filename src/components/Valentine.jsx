@@ -138,7 +138,7 @@ export default function Valentine() {
 
                     {step === "intro" && (
                         <div className="animate-pop">
-                            <h1 className="text-4xl font-extrabold mb-6">Hey Sugarplum &lt;3 💕</h1>
+                            <h1 className="text-4xl font-extrabold mb-6">Hey Cutuuu &lt;3 💕</h1>
                             <p className="mb-8 opacity-80">I have something important to ask you…</p>
                             <button
                                 onClick={() => setStep("question")}
