@@ -5,7 +5,7 @@ const noMessages = [
     "Oh? 👀 You clicked No already?",
     "Wow. Bold choice. Very bold.",
     "Are you *sure* sure? Because my heart disagrees.",
-    "Harsitaa… that button is starting to look suspicious 😏",
+    "Sanikaaaa… that button is starting to look suspicious 😏",
     "Okay but imagine saying No to *this face* 🥺",
     "This is getting awkward. Just say Yes already.",
     "At this point the No button is just decoration 😂",
